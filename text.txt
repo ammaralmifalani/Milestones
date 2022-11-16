@@ -1,3 +1,11 @@
 Ammar Almifalani
+<<<<<<< HEAD
 Mark van Atten 
 Azjin Khoshnaou
+=======
+<<<<<<< HEAD
+Hajk Hajrapetyan
+=======
+Mark van Atten 
+>>>>>>> 7d5fa4a2fafd0052f5a775c947bb9fb386e23aa4
+>>>>>>> bf15af46cdca83383672fdc4082f47d66fcfe173
